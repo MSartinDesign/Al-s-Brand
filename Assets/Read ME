@@ -1,0 +1,63 @@
+# Approved Image Assets
+
+This repository contains metadata mapping for the approved project image assets. 
+
+> ⚠️ **Important Note on Asset Storage:** No actual image files are stored directly within this repository. To keep the repository lightweight and centralize media management, all high-resolution image assets are housed on Google Drive.
+
+## 🔗 Accessing the Assets
+
+You can access and download all the image files from the official Google Drive folder link below:
+
+👉 **[Google Drive Assets Folder](https://drive.google.com/drive/folders/1gSrLcw7klvDDVluANfjT27P-1FA7hJ6n?usp=drive_link)**
+
+Users and students are encouraged to visit the folder and download individual files or sections as needed for documentation, presentations, or development work.
+
+---
+
+## 📂 Catalog of Approved Assets
+
+Below is an overview of the approved file names categorized by asset type, corresponding directly to the tracking index.
+
+### 📸 Product Images
+These files capture the hardware/product from various key angles and structural breakdowns:
+* `0_Multiple Views.png`
+* `1_Front View.png`
+* `2_Right Front Angle View.png`
+* `3_Right Side View.jpg`
+* `4_Right Back Angle.jpg`
+* `5_Back View.png`
+* `6_Left Side View.png`
+* `7_Top View.png`
+* `8_Cutaway.jpg`
+
+### 🌿 Lifestyle Images
+Contextual images showing the product or environment in situational contexts:
+* `Hero Image 2.jpg`
+* `Lifestyle Image 2.png`
+* `Lifestyle Image 3.png`
+* `Lifestyle Image 4.png`
+* `Lifestyle Image 5.png`
+* `Lifestyle Image 6.png`
+* `Lifestyle Image 7.png`
+
+### 🎨 Branding & Logos
+Official project identification graphics, typography markers, and promotional emblems:
+* `Logo.png`
+* `Logo Tagline.png`
+* `Tagline.png`
+
+### 🔬 Explorations
+Design research, sketches, material concepts, or UI/UX mockups created during the design iteration phases:
+* `Exploration 1.png`
+* `Exploration 2.png`
+* `Exploration 3.png`
+* `Exploration 4.png`
+* `Exploration 5.png`
+* `Exploration 6.png`
+* `Exploration 7.png`
+
+---
+
+## 🛠 Usage Guidelines
+1. Keep file names unchanged when pulling updates to avoid breaking path references in code or documentation.
+2. If uploading new revisions to the Google Drive folder, ensure they maintain consistency with this index or update `assets.json` accordingly.
