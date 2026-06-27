@@ -1,0 +1,38 @@
+{
+  "approved_image_assets": {
+    "product_images": [
+      { "filename": "0_Multiple Views.png" },
+      { "filename": "1_Front View.png" },
+      { "filename": "2_Right Front Angle View.png" },
+      { "filename": "3_Right Side View.jpg" },
+      { "filename": "4_Right Back Angle.jpg" },
+      { "filename": "5_Back View.png" },
+      { "filename": "6_Left Side View.png" },
+      { "filename": "7_Top View.png" },
+      { "filename": "8_Cutaway.jpg" }
+    ],
+    "lifestyle_images": [
+      { "filename": "Hero Image 2.jpg" },
+      { "filename": "Lifestyle Image 2.png" },
+      { "filename": "Lifestyle Image 3.png" },
+      { "filename": "Lifestyle Image 4.png" },
+      { "filename": "Lifestyle Image 5.png" },
+      { "filename": "Lifestyle Image 6.png" },
+      { "filename": "Lifestyle Image 7.png" }
+    ],
+    "branding_and_logos": [
+      { "filename": "Logo.png" },
+      { "filename": "Logo Tagline.png" },
+      { "filename": "Tagline.png" }
+    ],
+    "explorations": [
+      { "filename": "Exploration 1.png" },
+      { "filename": "Exploration 2.png" },
+      { "filename": "Exploration 3.png" },
+      { "filename": "Exploration 4.png" },
+      { "filename": "Exploration 5.png" },
+      { "filename": "Exploration 6.png" },
+      { "filename": "Exploration 7.png" }
+    ]
+  }
+}
